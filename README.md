@@ -1,4 +1,4 @@
-# AI-ML SmartBridge Project: Credit Card Approval Prediction
+# Credit Card Approval Prediction Classification
 
 ## Project Overview
 
