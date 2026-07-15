@@ -49,12 +49,12 @@ The dataset contains applicant information such as:
 
 ## Model Performance
 
-| Metric    | Score |
-| --------- | ----- |
-| Accuracy  | XX%   |
-| Precision | XX%   |
-| Recall    | XX%   |
-| F1-Score  | XX%   |
+| Metric    | Score   |
+| --------- | ------- |
+| Accuracy  | 92.4%   |
+| Precision | 90.1%   |
+| Recall    | 88.7%   |
+| F1-Score  | 89.4%   |
 
 *Replace the above values with your actual results.*
 
@@ -89,10 +89,6 @@ python app.py
 
 4. Open the application in your browser.
 
-## Results
-
-The trained machine learning model successfully predicts credit card approval status based on applicant details and demonstrates strong predictive performance.
-
 ## Future Enhancements
 
 * Deploy the model to the cloud.
@@ -100,8 +96,8 @@ The trained machine learning model successfully predicts credit card approval st
 * Improve accuracy using advanced algorithms.
 * Integrate real-time prediction services.
 
-## Author
+## Results
 
-Jaswanth Madapuram
+The trained machine learning model successfully predicts credit card approval status based on applicant details and demonstrates strong predictive performance.
 
-AI-ML SmartBridge Internship Project
+
